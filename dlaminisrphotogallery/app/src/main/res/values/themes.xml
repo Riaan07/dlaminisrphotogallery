@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DlaminisrPhotoGallery" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#294C60</item>
+        <item name="colorPrimaryVariant">#173547</item>
+        <item name="colorSecondary">#D89F4B</item>
+        <item name="android:statusBarColor">#173547</item>
+        <item name="android:navigationBarColor">#173547</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
